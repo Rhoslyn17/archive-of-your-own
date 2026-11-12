@@ -793,7 +793,7 @@ set_website_title("Archive of Your Own")
 set_website_framed(False)
 set_site_information(author="Rhoslyn Orr", description="A digital reading log.", sources = ["Goodreads.com"],
                      planning=["CS1 Final Project 0 - Pick a Problem.pdf", "CS1 Final Project 1 - Design.pdf"],
-                     links=[" "], server=None)
+                     links=["https://rhoslyn17.github.io/archive-of-your-own/"], server=None)
 
 ### Start Website
 
